@@ -1,0 +1,9 @@
+module.exports = {
+  NOT_EMPTY: 400,
+  NOT_FOUND: 404,
+  NO_CONFLICT: 409,
+  INTERNAL_SERVER_ERROR: 500,
+  MIN: 2,
+  MAX: 30,
+  DUPLICATE_KEY: 11000,
+};
